@@ -74,7 +74,7 @@ Com a api rodando, estará disponível em `http://localhost:3000/docs`
 
 Se deseja um projeto simples para utilizar este backend, utilize o arquivo de frontend: (/src/assets/todo-frontend.zip)
 
-[📥 Baixar Frontend](/src/assets/todo-frontend.zip)
+[📥 Baixar Frontend](/src/assets/frontend.zip)
 
 ## Finalizando
 
